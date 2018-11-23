@@ -1,0 +1,29 @@
+.task {
+  text-decoration: line-through;
+}
+
+#userstories {
+  margin-left: 5%;
+  margin-top: 7%;
+  float:right;
+}
+
+button {
+  height:1.5rem;
+  width:1.5rem;
+  font-size:1.05rem;
+  font-weight:600;
+  text-align:center;
+}
+
+#mssg {
+  padding-left:0.5rem;
+}
+
+form {
+  padding-top:1rem;
+}
+
+#results {
+  position:absolute;
+}
